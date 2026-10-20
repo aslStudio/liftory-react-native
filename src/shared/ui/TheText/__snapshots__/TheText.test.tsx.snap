@@ -1,0 +1,312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheText matches the snapshot for variant="body" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 17,
+        "fontWeight": "400",
+        "lineHeight": 22,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="callout" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 16,
+        "fontWeight": "400",
+        "lineHeight": 21,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="caption" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 12,
+        "fontWeight": "500",
+        "lineHeight": 16,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="caption2" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 11,
+        "fontWeight": "600",
+        "letterSpacing": 0.44,
+        "lineHeight": 13,
+        "textTransform": "uppercase",
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="footnote" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 13,
+        "fontWeight": "400",
+        "lineHeight": 18,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="headline" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 17,
+        "fontWeight": "600",
+        "lineHeight": 22,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="largeTitle" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 34,
+        "fontWeight": "700",
+        "lineHeight": 41,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="numericLg" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 28,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "700",
+        "lineHeight": 34,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="numericMd" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 22,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "lineHeight": 28,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="numericXl" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 48,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "700",
+        "lineHeight": 52,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="subhead" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 15,
+        "fontWeight": "400",
+        "lineHeight": 20,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="tabLabel" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 11,
+        "fontWeight": "500",
+        "lineHeight": 13,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="title1" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 28,
+        "fontWeight": "700",
+        "lineHeight": 34,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="title2" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 22,
+        "fontWeight": "700",
+        "lineHeight": 28,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;
+
+exports[`TheText matches the snapshot for variant="title3" 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontSize": 20,
+        "fontWeight": "600",
+        "lineHeight": 25,
+      },
+      {
+        "color": "#FFFFFF",
+      },
+      undefined,
+    ]
+  }
+>
+  Sample
+</Text>
+`;

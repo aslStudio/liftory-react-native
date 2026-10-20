@@ -1,0 +1,1584 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LineChart matches the snapshot with a single point: single point 1`] = `
+<View
+  accessibilityLabel="Chart"
+  accessible={true}
+  onLayout={[Function]}
+  style={
+    {
+      "height": 140,
+    }
+  }
+>
+  <RNSVGSvgView
+    bbHeight={140}
+    bbWidth={300}
+    focusable={false}
+    height={140}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 140,
+          "width": 300,
+        },
+      ]
+    }
+    width={300}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={118}
+        y2={118}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            122,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="99"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={85.99999999999977}
+        y2={85.99999999999977}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            89.99999999999977,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="99.7"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={54.00000000000023}
+        y2={54.00000000000023}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            58.00000000000023,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="100.3"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={22}
+        y2={22}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            26,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="101"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGPath
+        d="M136.0 70.0"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGCircle
+        cx={136}
+        cy={70}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={4.5}
+        stroke={
+          {
+            "payload": 4279966491,
+            "type": 0,
+          }
+        }
+        strokeWidth={2}
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`LineChart matches the snapshot with labels and a unit after layout: after layout 1`] = `
+<View
+  accessibilityLabel="Estimated 1RM, kg"
+  accessible={true}
+  onLayout={[Function]}
+  style={
+    {
+      "height": 140,
+    }
+  }
+>
+  <RNSVGSvgView
+    bbHeight={140}
+    bbWidth={300}
+    focusable={false}
+    height={140}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 140,
+          "width": 300,
+        },
+      ]
+    }
+    width={300}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={118}
+        y2={118}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            122,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="92"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={85.99999999999997}
+        y2={85.99999999999997}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            89.99999999999997,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="95.7"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={54.00000000000004}
+        y2={54.00000000000004}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            58.00000000000004,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="99.3"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={22}
+        y2={22}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            26,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="103"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGPath
+        d="M8.0 118.0 L50.7 100.5 L93.3 100.5 L136.0 74.4 L178.7 56.9 L221.3 48.2 L264.0 22.0"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGCircle
+        cx={8}
+        cy={118}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={50.666666666666664}
+        cy={100.54545454545453}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={93.33333333333333}
+        cy={100.54545454545453}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={136}
+        cy={74.36363636363636}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={178.66666666666666}
+        cy={56.90909090909091}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={221.33333333333334}
+        cy={48.18181818181818}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={264}
+        cy={22}
+        fill={
+          {
+            "payload": 4294543916,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={4.5}
+        stroke={
+          {
+            "payload": 4279966491,
+            "type": 0,
+          }
+        }
+        strokeWidth={2}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+            "textAnchor": "start",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            8,
+          ]
+        }
+        y={
+          [
+            135,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="Aug 4"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+            "textAnchor": "middle",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            93.33333333333333,
+          ]
+        }
+        y={
+          [
+            135,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="Aug 18"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+            "textAnchor": "middle",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            178.66666666666666,
+          ]
+        }
+        y={
+          [
+            135,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="Sep 1"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+            "textAnchor": "end",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            264,
+          ]
+        }
+        y={
+          [
+            135,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="Sep 15"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            10,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="kg"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`LineChart matches the snapshot with the info tone: info tone 1`] = `
+<View
+  accessibilityLabel="Chart"
+  accessible={true}
+  onLayout={[Function]}
+  style={
+    {
+      "height": 140,
+    }
+  }
+>
+  <RNSVGSvgView
+    bbHeight={140}
+    bbWidth={300}
+    focusable={false}
+    height={140}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 140,
+          "width": 300,
+        },
+      ]
+    }
+    width={300}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={118}
+        y2={118}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            122,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="1"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={86}
+        y2={86}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            90,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="1.7"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={54.000000000000014}
+        y2={54.000000000000014}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            58.000000000000014,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="2.3"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGLine
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        stroke={
+          {
+            "payload": 352321535,
+            "type": 0,
+          }
+        }
+        strokeWidth={1}
+        x1={8}
+        x2={264}
+        y1={22}
+        y2={22}
+      />
+      <RNSVGText
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4288190621,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 10,
+            "fontWeight": "500",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            270,
+          ]
+        }
+        y={
+          [
+            26,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="3"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+      <RNSVGPath
+        d="M8.0 118.0 L136.0 70.0 L264.0 22.0"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4282424575,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGCircle
+        cx={8}
+        cy={118}
+        fill={
+          {
+            "payload": 4282424575,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={136}
+        cy={70}
+        fill={
+          {
+            "payload": 4282424575,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={3}
+        stroke={null}
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={264}
+        cy={22}
+        fill={
+          {
+            "payload": 4282424575,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={4.5}
+        stroke={
+          {
+            "payload": 4279966491,
+            "type": 0,
+          }
+        }
+        strokeWidth={2}
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`LineChart renders nothing inside until a layout width is known: before layout 1`] = `
+<View
+  accessibilityLabel="Chart"
+  accessible={true}
+  onLayout={[Function]}
+  style={
+    {
+      "height": 140,
+    }
+  }
+/>
+`;

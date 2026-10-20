@@ -1,0 +1,274 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StatTile matches the snapshot with a negative delta 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#242424",
+        "borderRadius": 14,
+        "flex": 1,
+        "gap": 2,
+        "paddingHorizontal": 14,
+        "paddingVertical": 12,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        undefined,
+      ]
+    }
+  >
+    Record weight
+  </Text>
+  <Text
+    adjustsFontSizeToFit={true}
+    numberOfLines={1}
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 22,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 28,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          undefined,
+        ]
+      }
+    >
+      80
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          {
+            "fontSize": 15,
+            "fontWeight": "500",
+            "lineHeight": 20,
+          },
+        ]
+      }
+    >
+       kg
+    </Text>
+  </Text>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#FF453A",
+        },
+        {
+          "fontSize": 12,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+          "fontWeight": "600",
+          "lineHeight": 16,
+        },
+      ]
+    }
+  >
+    −2.5 kg
+  </Text>
+</View>
+`;
+
+exports[`StatTile matches the snapshot with a positive delta 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#242424",
+        "borderRadius": 14,
+        "flex": 1,
+        "gap": 2,
+        "paddingHorizontal": 14,
+        "paddingVertical": 12,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        undefined,
+      ]
+    }
+  >
+    Record weight
+  </Text>
+  <Text
+    adjustsFontSizeToFit={true}
+    numberOfLines={1}
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 22,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 28,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          undefined,
+        ]
+      }
+    >
+      82.5
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          {
+            "fontSize": 15,
+            "fontWeight": "500",
+            "lineHeight": 20,
+          },
+        ]
+      }
+    >
+       kg
+    </Text>
+  </Text>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#30D158",
+        },
+        {
+          "fontSize": 12,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+          "fontWeight": "600",
+          "lineHeight": 16,
+        },
+      ]
+    }
+  >
+    +2.5 kg
+  </Text>
+</View>
+`;
+
+exports[`StatTile matches the snapshot without a unit or delta 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#242424",
+        "borderRadius": 14,
+        "flex": 1,
+        "gap": 2,
+        "paddingHorizontal": 14,
+        "paddingVertical": 12,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        undefined,
+      ]
+    }
+  >
+    Total volume
+  </Text>
+  <Text
+    adjustsFontSizeToFit={true}
+    numberOfLines={1}
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 22,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 28,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          undefined,
+        ]
+      }
+    >
+      17 600
+    </Text>
+  </Text>
+</View>
+`;

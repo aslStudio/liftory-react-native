@@ -1,0 +1,452 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StreakCard matches the snapshot with history 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#1B1B1B",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 1,
+        "padding": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "gap": 14,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "gap": 14,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "rgba(249,138,44,0.16)",
+            "borderRadius": 24,
+            "height": 48,
+            "justifyContent": "center",
+            "width": 48,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessible={false}
+          align="xMidYMid"
+          bbHeight={24}
+          bbWidth={24}
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+          >
+            <RNSVGPath
+              d="M12 3c.8 3.2 5 5.2 5 10.2a5 5 0 0 1-10 0c0-2.4 1.1-3.9 2.4-4.9.2 1.8 1 2.9 2.2 3.4-.7-3.2-.6-6.1.4-8.7z"
+              fill={null}
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4294543916,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth={2}
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <View
+        style={
+          {
+            "flex": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "fontSize": 28,
+                "fontVariant": [
+                  "tabular-nums",
+                ],
+                "fontWeight": "700",
+                "lineHeight": 34,
+              },
+              {
+                "color": "#FFFFFF",
+              },
+              undefined,
+            ]
+          }
+        >
+          8
+          <Text
+            style={
+              [
+                {
+                  "fontSize": 17,
+                  "fontWeight": "600",
+                  "lineHeight": 22,
+                },
+                {
+                  "color": "#FFFFFF",
+                },
+                undefined,
+              ]
+            }
+          >
+             weeks on track
+          </Text>
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontSize": 13,
+                "fontWeight": "400",
+                "lineHeight": 18,
+              },
+              {
+                "color": "#B4B4B9",
+              },
+              undefined,
+            ]
+          }
+        >
+          23 planned workouts completed · Best 11
+        </Text>
+      </View>
+    </View>
+    <View
+      accessibilityLabel="Last 10 weeks"
+      accessible={true}
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 4,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#409CFF",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`StreakCard matches the snapshot without history 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#1B1B1B",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 1,
+        "padding": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "gap": 14,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "flexDirection": "row",
+          "gap": 14,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "rgba(249,138,44,0.16)",
+            "borderRadius": 24,
+            "height": 48,
+            "justifyContent": "center",
+            "width": 48,
+          }
+        }
+      >
+        <RNSVGSvgView
+          accessible={false}
+          align="xMidYMid"
+          bbHeight={24}
+          bbWidth={24}
+          focusable={false}
+          height={24}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 24,
+                "width": 24,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={24}
+        >
+          <RNSVGGroup
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+          >
+            <RNSVGPath
+              d="M12 3c.8 3.2 5 5.2 5 10.2a5 5 0 0 1-10 0c0-2.4 1.1-3.9 2.4-4.9.2 1.8 1 2.9 2.2 3.4-.7-3.2-.6-6.1.4-8.7z"
+              fill={null}
+              propList={
+                [
+                  "fill",
+                  "stroke",
+                  "strokeWidth",
+                  "strokeLinecap",
+                  "strokeLinejoin",
+                ]
+              }
+              stroke={
+                {
+                  "payload": 4294543916,
+                  "type": 0,
+                }
+              }
+              strokeLinecap={1}
+              strokeLinejoin={1}
+              strokeWidth={2}
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+      </View>
+      <View
+        style={
+          {
+            "flex": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "fontSize": 28,
+                "fontVariant": [
+                  "tabular-nums",
+                ],
+                "fontWeight": "700",
+                "lineHeight": 34,
+              },
+              {
+                "color": "#FFFFFF",
+              },
+              undefined,
+            ]
+          }
+        >
+          1
+          <Text
+            style={
+              [
+                {
+                  "fontSize": 17,
+                  "fontWeight": "600",
+                  "lineHeight": 22,
+                },
+                {
+                  "color": "#FFFFFF",
+                },
+                undefined,
+              ]
+            }
+          >
+             week on track
+          </Text>
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontSize": 13,
+                "fontWeight": "400",
+                "lineHeight": 18,
+              },
+              {
+                "color": "#B4B4B9",
+              },
+              undefined,
+            ]
+          }
+        >
+          3 planned workouts completed
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

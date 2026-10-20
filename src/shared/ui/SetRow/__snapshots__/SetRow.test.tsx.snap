@@ -1,0 +1,1350 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SetRow matches the snapshot for a new PR 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "rgba(255,214,10,0.16)",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "gap": 8,
+      "paddingHorizontal": 6,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 28,
+        "justifyContent": "center",
+        "width": 28,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontSize": 13,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      1
+    </Text>
+  </View>
+  <Text
+    numberOfLines={1}
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "flex": 1,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+        },
+      ]
+    }
+  >
+    —
+  </Text>
+  <TextInput
+    accessibilityLabel="Weight, kg"
+    defaultValue="82.5"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 64,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="Reps"
+    defaultValue="8"
+    keyboardType="number-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 52,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="RPE"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "500",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 44,
+      }
+    }
+  />
+  <View
+    accessibilityLabel="Set completed"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": true,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    hitSlop={6}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#FFD60A",
+        "borderRadius": 8,
+        "height": 32,
+        "justifyContent": "center",
+        "width": 32,
+      }
+    }
+  >
+    <RNSVGSvgView
+      accessible={false}
+      align="xMidYMid"
+      bbHeight={16}
+      bbWidth={16}
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+      >
+        <RNSVGPath
+          d="M8 4h8v5a4 4 0 0 1-8 0z"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+        <RNSVGPath
+          d="M8 6H5.5a2.5 2.5 0 0 0 2.6 3.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+        <RNSVGPath
+          d="M16 6h2.5a2.5 2.5 0 0 1-2.6 3.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+        <RNSVGPath
+          d="M12 13v4"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+        <RNSVGPath
+          d="M8.5 20.5h7"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+        <RNSVGPath
+          d="M9.5 17h5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={2.4}
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`SetRow matches the snapshot for type="drop" 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "gap": 8,
+      "paddingHorizontal": 6,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#242424",
+        "borderRadius": 8,
+        "height": 28,
+        "justifyContent": "center",
+        "width": 28,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#409CFF",
+          },
+          {
+            "fontSize": 13,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      D
+    </Text>
+  </View>
+  <Text
+    numberOfLines={1}
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "flex": 1,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+        },
+      ]
+    }
+  >
+    80 × 8
+  </Text>
+  <TextInput
+    accessibilityLabel="Weight, kg"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 64,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="Reps"
+    keyboardType="number-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 52,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="RPE"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "500",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 44,
+      }
+    }
+  />
+  <View
+    accessibilityLabel="Complete set"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": false,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    hitSlop={6}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 32,
+        "justifyContent": "center",
+        "width": 32,
+      }
+    }
+  >
+    <RNSVGSvgView
+      accessible={false}
+      align="xMidYMid"
+      bbHeight={16}
+      bbWidth={16}
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+      >
+        <RNSVGPath
+          d="M5 12.5l4.5 4.5L19 7.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4288190621,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={3}
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`SetRow matches the snapshot for type="warmup" 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "gap": 8,
+      "paddingHorizontal": 6,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "rgba(249,138,44,0.16)",
+        "borderRadius": 8,
+        "height": 28,
+        "justifyContent": "center",
+        "width": 28,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#F98A2C",
+          },
+          {
+            "fontSize": 13,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      W
+    </Text>
+  </View>
+  <Text
+    numberOfLines={1}
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "flex": 1,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+        },
+      ]
+    }
+  >
+    80 × 8
+  </Text>
+  <TextInput
+    accessibilityLabel="Weight, kg"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 64,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="Reps"
+    keyboardType="number-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 52,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="RPE"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "500",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 44,
+      }
+    }
+  />
+  <View
+    accessibilityLabel="Complete set"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": false,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    hitSlop={6}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 32,
+        "justifyContent": "center",
+        "width": 32,
+      }
+    }
+  >
+    <RNSVGSvgView
+      accessible={false}
+      align="xMidYMid"
+      bbHeight={16}
+      bbWidth={16}
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+      >
+        <RNSVGPath
+          d="M5 12.5l4.5 4.5L19 7.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4288190621,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={3}
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`SetRow matches the snapshot for type="working" 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "transparent",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "gap": 8,
+      "paddingHorizontal": 6,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 28,
+        "justifyContent": "center",
+        "width": 28,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontSize": 13,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      1
+    </Text>
+  </View>
+  <Text
+    numberOfLines={1}
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "flex": 1,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+        },
+      ]
+    }
+  >
+    80 × 8
+  </Text>
+  <TextInput
+    accessibilityLabel="Weight, kg"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 64,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="Reps"
+    keyboardType="number-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 52,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="RPE"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "500",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 44,
+      }
+    }
+  />
+  <View
+    accessibilityLabel="Complete set"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": false,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    hitSlop={6}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 32,
+        "justifyContent": "center",
+        "width": 32,
+      }
+    }
+  >
+    <RNSVGSvgView
+      accessible={false}
+      align="xMidYMid"
+      bbHeight={16}
+      bbWidth={16}
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+      >
+        <RNSVGPath
+          d="M5 12.5l4.5 4.5L19 7.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4288190621,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={3}
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;
+
+exports[`SetRow matches the snapshot when done 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "rgba(249,138,44,0.16)",
+      "borderRadius": 10,
+      "flexDirection": "row",
+      "gap": 8,
+      "paddingHorizontal": 6,
+      "paddingVertical": 4,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 8,
+        "height": 28,
+        "justifyContent": "center",
+        "width": 28,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontSize": 13,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      1
+    </Text>
+  </View>
+  <Text
+    numberOfLines={1}
+    style={
+      [
+        {
+          "fontSize": 13,
+          "fontWeight": "400",
+          "lineHeight": 18,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "flex": 1,
+          "fontVariant": [
+            "tabular-nums",
+          ],
+        },
+      ]
+    }
+  >
+    —
+  </Text>
+  <TextInput
+    accessibilityLabel="Weight, kg"
+    defaultValue="82.5"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 64,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="Reps"
+    defaultValue="8"
+    keyboardType="number-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "600",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 52,
+      }
+    }
+  />
+  <TextInput
+    accessibilityLabel="RPE"
+    keyboardType="decimal-pad"
+    placeholderTextColor="#98989D"
+    selectTextOnFocus={true}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderRadius": 8,
+        "color": "#FFFFFF",
+        "fontSize": 15,
+        "fontVariant": [
+          "tabular-nums",
+        ],
+        "fontWeight": "500",
+        "height": 32,
+        "padding": 0,
+        "textAlign": "center",
+        "width": 44,
+      }
+    }
+  />
+  <View
+    accessibilityLabel="Set completed"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": true,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    hitSlop={6}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#F98A2C",
+        "borderRadius": 8,
+        "height": 32,
+        "justifyContent": "center",
+        "width": 32,
+      }
+    }
+  >
+    <RNSVGSvgView
+      accessible={false}
+      align="xMidYMid"
+      bbHeight={16}
+      bbWidth={16}
+      focusable={false}
+      height={16}
+      meetOrSlice={0}
+      minX={0}
+      minY={0}
+      style={
+        [
+          {
+            "backgroundColor": "transparent",
+            "borderWidth": 0,
+          },
+          {
+            "flex": 0,
+            "height": 16,
+            "width": 16,
+          },
+        ]
+      }
+      vbHeight={24}
+      vbWidth={24}
+      width={16}
+    >
+      <RNSVGGroup
+        fill={
+          {
+            "payload": 4278190080,
+            "type": 0,
+          }
+        }
+      >
+        <RNSVGPath
+          d="M5 12.5l4.5 4.5L19 7.5"
+          fill={null}
+          propList={
+            [
+              "fill",
+              "stroke",
+              "strokeWidth",
+              "strokeLinecap",
+              "strokeLinejoin",
+            ]
+          }
+          stroke={
+            {
+              "payload": 4294967295,
+              "type": 0,
+            }
+          }
+          strokeLinecap={1}
+          strokeLinejoin={1}
+          strokeWidth={3}
+        />
+      </RNSVGGroup>
+    </RNSVGSvgView>
+  </View>
+</View>
+`;

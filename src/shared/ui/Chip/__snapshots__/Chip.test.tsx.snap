@@ -1,0 +1,428 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chip matches the snapshot for tone="accent" 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "rgba(249,138,44,0.16)",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#F98A2C",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;
+
+exports[`Chip matches the snapshot for tone="neutral" 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#B4B4B9",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;
+
+exports[`Chip matches the snapshot for tone="pr" 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "rgba(255,214,10,0.16)",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#FFD60A",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;
+
+exports[`Chip matches the snapshot for tone="solid" 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "#F98A2C",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#FFFFFF",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;
+
+exports[`Chip matches the snapshot for tone="success" 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "rgba(48,209,88,0.16)",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#30D158",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;
+
+exports[`Chip matches the snapshot with an icon 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "alignSelf": "flex-start",
+        "backgroundColor": "rgba(255,214,10,0.16)",
+        "borderRadius": 999,
+        "flexDirection": "row",
+        "gap": 4,
+        "height": 22,
+        "paddingHorizontal": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={12}
+    bbWidth={12}
+    focusable={false}
+    height={12}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 12,
+          "width": 12,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={12}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 4h8v5a4 4 0 0 1-8 0z"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGPath
+        d="M8 6H5.5a2.5 2.5 0 0 0 2.6 3.5"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGPath
+        d="M16 6h2.5a2.5 2.5 0 0 1-2.6 3.5"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGPath
+        d="M12 13v4"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGPath
+        d="M8.5 20.5h7"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+      <RNSVGPath
+        d="M9.5 17h5"
+        fill={null}
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeLinecap",
+            "strokeLinejoin",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294956554,
+            "type": 0,
+          }
+        }
+        strokeLinecap={1}
+        strokeLinejoin={1}
+        strokeWidth={2.5}
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+  <Text
+    style={
+      [
+        {
+          "fontSize": 17,
+          "fontWeight": "400",
+          "lineHeight": 22,
+        },
+        {
+          "color": "#FFD60A",
+        },
+        {
+          "fontSize": 11,
+          "fontWeight": "600",
+          "letterSpacing": 0.22,
+          "lineHeight": 13,
+        },
+      ]
+    }
+  >
+    New PR
+  </Text>
+</View>
+`;

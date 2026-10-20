@@ -1,0 +1,163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SegmentedControl matches the snapshot 1`] = `
+<View
+  accessibilityRole="tablist"
+  style={
+    {
+      "backgroundColor": "#242424",
+      "borderRadius": 999,
+      "flexDirection": "row",
+      "gap": 2,
+      "padding": 3,
+    }
+  }
+>
+  <View
+    accessibilityRole="tab"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": true,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      [
+        {
+          "alignItems": "center",
+          "borderRadius": 999,
+          "flex": 1,
+          "height": 30,
+          "justifyContent": "center",
+        },
+        [
+          {
+            "backgroundColor": "#2E2E2E",
+          },
+          {
+            "elevation": 1,
+            "shadowColor": "#000000",
+            "shadowOffset": {
+              "height": 1,
+              "width": 0,
+            },
+            "shadowOpacity": 0.5,
+            "shadowRadius": 1,
+          },
+        ],
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontSize": 13,
+            "fontWeight": "500",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      Exercises
+    </Text>
+  </View>
+  <View
+    accessibilityRole="tab"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": false,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      [
+        {
+          "alignItems": "center",
+          "borderRadius": 999,
+          "flex": 1,
+          "height": 30,
+          "justifyContent": "center",
+        },
+        null,
+      ]
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          {
+            "fontSize": 13,
+            "fontWeight": "500",
+            "lineHeight": 18,
+          },
+        ]
+      }
+    >
+      Stats
+    </Text>
+  </View>
+</View>
+`;

@@ -1,0 +1,324 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GoalProgress matches the snapshot in progress 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#242424",
+      "borderRadius": 14,
+      "padding": 14,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "flex-start",
+        "flexDirection": "row",
+        "gap": 12,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "fontSize": 17,
+              "fontWeight": "600",
+              "lineHeight": 22,
+            },
+            {
+              "color": "#FFFFFF",
+            },
+            undefined,
+          ]
+        }
+      >
+        Bench Press 120 kg
+      </Text>
+      <Text
+        style={
+          [
+            {
+              "fontSize": 13,
+              "fontWeight": "400",
+              "lineHeight": 18,
+            },
+            {
+              "color": "#B4B4B9",
+            },
+            undefined,
+          ]
+        }
+      >
+        Exercise goal
+      </Text>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#F98A2C",
+          },
+          {
+            "fontSize": 15,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 20,
+          },
+        ]
+      }
+    >
+      69
+      %
+    </Text>
+  </View>
+  <View
+    accessibilityRole="progressbar"
+    accessibilityValue={
+      {
+        "max": 120,
+        "min": 0,
+        "now": 82.5,
+      }
+    }
+    accessible={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 999,
+        "height": 6,
+        "marginBottom": 8,
+        "marginTop": 12,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#F98A2C",
+          "borderRadius": 999,
+          "height": "100%",
+          "width": "68.75%",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 12,
+            "fontWeight": "500",
+            "lineHeight": 16,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          undefined,
+        ]
+      }
+    >
+      Max Weight
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 12,
+            "fontWeight": "500",
+            "lineHeight": 16,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontVariant": [
+              "tabular-nums",
+            ],
+          },
+        ]
+      }
+    >
+      82.5 / 120 kg
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`GoalProgress matches the snapshot when reached 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "#242424",
+      "borderRadius": 14,
+      "padding": 14,
+    }
+  }
+>
+  <View
+    style={
+      {
+        "alignItems": "flex-start",
+        "flexDirection": "row",
+        "gap": 12,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flex": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          [
+            {
+              "fontSize": 17,
+              "fontWeight": "600",
+              "lineHeight": 22,
+            },
+            {
+              "color": "#FFFFFF",
+            },
+            undefined,
+          ]
+        }
+      >
+        4 workouts / week
+      </Text>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 17,
+            "fontWeight": "400",
+            "lineHeight": 22,
+          },
+          {
+            "color": "#30D158",
+          },
+          {
+            "fontSize": 15,
+            "fontVariant": [
+              "tabular-nums",
+            ],
+            "fontWeight": "600",
+            "lineHeight": 20,
+          },
+        ]
+      }
+    >
+      100
+      %
+    </Text>
+  </View>
+  <View
+    accessibilityRole="progressbar"
+    accessibilityValue={
+      {
+        "max": 4,
+        "min": 0,
+        "now": 4,
+      }
+    }
+    accessible={true}
+    style={
+      {
+        "backgroundColor": "#2E2E2E",
+        "borderRadius": 999,
+        "height": 6,
+        "marginBottom": 8,
+        "marginTop": 12,
+        "overflow": "hidden",
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "backgroundColor": "#30D158",
+          "borderRadius": 999,
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontSize": 12,
+            "fontWeight": "500",
+            "lineHeight": 16,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          undefined,
+        ]
+      }
+    >
+      Weekly goal
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 12,
+            "fontWeight": "500",
+            "lineHeight": 16,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "fontVariant": [
+              "tabular-nums",
+            ],
+          },
+        ]
+      }
+    >
+      4 / 4
+    </Text>
+  </View>
+</View>
+`;

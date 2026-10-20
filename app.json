@@ -1,0 +1,35 @@
+{
+    "expo": {
+        "name": "Liftory",
+        "slug": "liftory",
+        "scheme": "liftory",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "automatic",
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "vladAstahov.gymTracker.GymTracker",
+            "entitlements": {
+                "com.apple.developer.icloud-container-identifiers": [
+                    "iCloud.vladAstahov.gymTracker.GymTracker"
+                ],
+                "com.apple.developer.icloud-services": ["CloudKit"]
+            }
+        },
+        "android": {
+            "adaptiveIcon": {
+                "backgroundColor": "#E6F4FE",
+                "foregroundImage": "./assets/android-icon-foreground.png",
+                "backgroundImage": "./assets/android-icon-background.png",
+                "monochromeImage": "./assets/android-icon-monochrome.png"
+            },
+            "predictiveBackGestureEnabled": false,
+            "package": "vladAstahov.gymTracker.GymTracker"
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "plugins": ["expo-router", "@react-native-community/datetimepicker", "expo-sqlite"]
+    }
+}

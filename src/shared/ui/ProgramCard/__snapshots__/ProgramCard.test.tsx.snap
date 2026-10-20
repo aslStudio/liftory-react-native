@@ -1,0 +1,581 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgramCard matches the snapshot fully populated 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#1B1B1B",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 1,
+        "padding": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "gap": 6,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 6,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "alignItems": "center",
+              "alignSelf": "flex-start",
+              "backgroundColor": "rgba(249,138,44,0.16)",
+              "borderRadius": 999,
+              "flexDirection": "row",
+              "gap": 4,
+              "height": 22,
+              "paddingHorizontal": 8,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "fontSize": 17,
+                "fontWeight": "400",
+                "lineHeight": 22,
+              },
+              {
+                "color": "#F98A2C",
+              },
+              {
+                "fontSize": 11,
+                "fontWeight": "600",
+                "letterSpacing": 0.22,
+                "lineHeight": 13,
+              },
+            ]
+          }
+        >
+          Week 3 of 6
+        </Text>
+      </View>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 22,
+            "fontWeight": "700",
+            "lineHeight": 28,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "marginTop": 4,
+          },
+        ]
+      }
+    >
+      Push / Pull / Legs
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 13,
+            "fontWeight": "400",
+            "lineHeight": 18,
+          },
+          {
+            "color": "#B4B4B9",
+          },
+          undefined,
+        ]
+      }
+    >
+      6 weeks · 6 workouts / week
+    </Text>
+    <View
+      accessibilityLabel="Week 3 of 6"
+      accessible={true}
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 4,
+          "marginBottom": 6,
+          "marginTop": 10,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#F98A2C",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F98A2C",
+              "borderRadius": 999,
+              "height": "100%",
+              "width": "50%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "rgba(255,255,255,0.18)",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderTopColor": "rgba(255,255,255,0.08)",
+          "borderTopWidth": 1,
+          "flexDirection": "row",
+          "gap": 12,
+          "justifyContent": "space-between",
+          "marginTop": 6,
+          "paddingTop": 12,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "flex": 1,
+          }
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "fontSize": 11,
+                "fontWeight": "600",
+                "letterSpacing": 0.44,
+                "lineHeight": 13,
+                "textTransform": "uppercase",
+              },
+              {
+                "color": "#B4B4B9",
+              },
+              undefined,
+            ]
+          }
+        >
+          Next
+        </Text>
+        <Text
+          style={
+            [
+              {
+                "fontSize": 17,
+                "fontWeight": "400",
+                "lineHeight": 22,
+              },
+              {
+                "color": "#FFFFFF",
+              },
+              {
+                "fontSize": 16,
+                "fontWeight": "500",
+                "lineHeight": 21,
+              },
+            ]
+          }
+        >
+          Push — Today, 18:00
+        </Text>
+      </View>
+      <View
+        accessibilityRole="button"
+        accessibilityState={
+          {
+            "busy": undefined,
+            "checked": undefined,
+            "disabled": false,
+            "expanded": undefined,
+            "selected": undefined,
+          }
+        }
+        accessibilityValue={
+          {
+            "max": undefined,
+            "min": undefined,
+            "now": undefined,
+            "text": undefined,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onFocus={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          [
+            {
+              "alignItems": "center",
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            {
+              "alignSelf": "flex-start",
+              "backgroundColor": "#F98A2C",
+              "borderRadius": 999,
+              "gap": 6,
+              "height": 32,
+              "opacity": 1,
+              "paddingHorizontal": 14,
+            },
+            {
+              "elevation": 6,
+              "shadowColor": "#F98A2C",
+              "shadowOffset": {
+                "height": 6,
+                "width": 0,
+              },
+              "shadowOpacity": 0.35,
+              "shadowRadius": 10,
+            },
+            undefined,
+          ]
+        }
+      >
+        <RNSVGSvgView
+          accessible={false}
+          align="xMidYMid"
+          bbHeight={16}
+          bbWidth={16}
+          focusable={false}
+          height={16}
+          meetOrSlice={0}
+          minX={0}
+          minY={0}
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderWidth": 0,
+              },
+              {
+                "flex": 0,
+                "height": 16,
+                "width": 16,
+              },
+            ]
+          }
+          vbHeight={24}
+          vbWidth={24}
+          width={16}
+        >
+          <RNSVGGroup
+            fill={
+              {
+                "payload": 4278190080,
+                "type": 0,
+              }
+            }
+          >
+            <RNSVGPath
+              d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+              fill={
+                {
+                  "payload": 4294967295,
+                  "type": 0,
+                }
+              }
+              propList={
+                [
+                  "fill",
+                ]
+              }
+            />
+          </RNSVGGroup>
+        </RNSVGSvgView>
+        <Text
+          style={
+            [
+              {
+                "fontSize": 15,
+                "fontWeight": "400",
+                "lineHeight": 20,
+              },
+              {
+                "color": "#FFFFFF",
+              },
+              {
+                "fontWeight": "600",
+              },
+            ]
+          }
+        >
+          Start
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`ProgramCard matches the snapshot minimal 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#1B1B1B",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 1,
+        "padding": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      {
+        "gap": 6,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 6,
+        }
+      }
+    >
+      <View
+        style={
+          [
+            {
+              "alignItems": "center",
+              "alignSelf": "flex-start",
+              "backgroundColor": "rgba(249,138,44,0.16)",
+              "borderRadius": 999,
+              "flexDirection": "row",
+              "gap": 4,
+              "height": 22,
+              "paddingHorizontal": 8,
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          style={
+            [
+              {
+                "fontSize": 17,
+                "fontWeight": "400",
+                "lineHeight": 22,
+              },
+              {
+                "color": "#F98A2C",
+              },
+              {
+                "fontSize": 11,
+                "fontWeight": "600",
+                "letterSpacing": 0.22,
+                "lineHeight": 13,
+              },
+            ]
+          }
+        >
+          Week 1 of 6
+        </Text>
+      </View>
+    </View>
+    <Text
+      style={
+        [
+          {
+            "fontSize": 22,
+            "fontWeight": "700",
+            "lineHeight": 28,
+          },
+          {
+            "color": "#FFFFFF",
+          },
+          {
+            "marginTop": 4,
+          },
+        ]
+      }
+    >
+      Push / Pull / Legs
+    </Text>
+    <View
+      accessibilityLabel="Week 1 of 6"
+      accessible={true}
+      style={
+        {
+          "flexDirection": "row",
+          "gap": 4,
+          "marginBottom": 6,
+          "marginTop": 10,
+        }
+      }
+    >
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "backgroundColor": "#F98A2C",
+              "borderRadius": 999,
+              "height": "100%",
+              "width": "0%",
+            }
+          }
+        />
+      </View>
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+      <View
+        style={
+          {
+            "backgroundColor": "#2E2E2E",
+            "borderRadius": 999,
+            "flex": 1,
+            "height": 6,
+            "overflow": "hidden",
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

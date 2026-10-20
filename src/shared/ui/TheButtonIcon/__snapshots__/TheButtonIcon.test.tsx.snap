@@ -1,0 +1,752 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TheButtonIcon matches the snapshot for size="lg" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 26,
+        "borderWidth": 0,
+        "height": 52,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 52,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={22}
+    bbWidth={22}
+    focusable={false}
+    height={22}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 22,
+          "width": 22,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={22}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for size="md" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 0,
+        "height": 40,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 40,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={18}
+    bbWidth={18}
+    focusable={false}
+    height={18}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 18,
+          "width": 18,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={18}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for size="sm" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={6}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 16,
+        "borderWidth": 0,
+        "height": 32,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 32,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={16}
+    bbWidth={16}
+    focusable={false}
+    height={16}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 16,
+          "width": 16,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={16}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for variant="accent" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#F98A2C",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 0,
+        "height": 40,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 40,
+      },
+      {
+        "elevation": 6,
+        "shadowColor": "#F98A2C",
+        "shadowOffset": {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.35,
+        "shadowRadius": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={18}
+    bbWidth={18}
+    focusable={false}
+    height={18}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 18,
+          "width": 18,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={18}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for variant="glass" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "rgba(38,38,38,0.72)",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 1,
+        "height": 40,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 40,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={18}
+    bbWidth={18}
+    focusable={false}
+    height={18}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 18,
+          "width": 18,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={18}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for variant="plain" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "transparent",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 0,
+        "height": 40,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 40,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={18}
+    bbWidth={18}
+    focusable={false}
+    height={18}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 18,
+          "width": 18,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={18}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4290032825,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
+
+exports[`TheButtonIcon matches the snapshot for variant="surface" 1`] = `
+<View
+  accessibilityLabel="Start workout"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  hitSlop={0}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "backgroundColor": "#2E2E2E",
+        "borderColor": "rgba(255,255,255,0.08)",
+        "borderRadius": 20,
+        "borderWidth": 0,
+        "height": 40,
+        "justifyContent": "center",
+        "opacity": 1,
+        "width": 40,
+      },
+      null,
+      undefined,
+    ]
+  }
+>
+  <RNSVGSvgView
+    accessible={false}
+    align="xMidYMid"
+    bbHeight={18}
+    bbWidth={18}
+    focusable={false}
+    height={18}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 18,
+          "width": 18,
+        },
+      ]
+    }
+    vbHeight={24}
+    vbWidth={24}
+    width={18}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGPath
+        d="M8 5.2v13.6c0 .8.9 1.3 1.6.8l10.2-6.8c.6-.4.6-1.2 0-1.6L9.6 4.4C8.9 3.9 8 4.4 8 5.2z"
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;
